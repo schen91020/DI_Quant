@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/SamuelChen/Desktop/learning-flask/venv"
+VIRTUAL_ENV="/Users/SamuelChen/Desktop/DI_Quant/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
